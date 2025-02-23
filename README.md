@@ -1,5 +1,5 @@
 # **Automated GDPR Compliance Checker Using Selenium**
-### **Evaluating GDPR Compliance of Educational Websites - Approach 2 (January 2025)**  
+### **Evaluating GDPR Compliance of Educational Websites - (January 2025)**  
 ### **A Research Project in Collaboration with Princess Sumaya University for Technology (PSUT)**  
 
 ## **Project Overview**  
@@ -32,6 +32,10 @@ This approach was developed to **overcome the limitations of the 2GDPR scraper**
 ---
 
 ## **Challenges & How We Optimized the Process**
+
+### **Overcoming the Lack of a Scalable GDPR Compliance Tool**
+Overcame the challenge of not finding a freely available tool capable of handling large-scale GDPR compliance checks by developing our own fully automated solution, ensuring efficiency, scalability, and accuracy in analyzing 8,453 websites.
+ 
 ### **Optimizing Processing Time**
 To handle the large dataset efficiently:
 - **Batch Processing**:
@@ -46,14 +50,9 @@ To handle the large dataset efficiently:
   - Used **explicit waits & JavaScript execution** to handle delays.
   - Implemented **deep search logic** to locate hidden consent elements.
 
-### **3. Geo-Restricted Websites**
-- Some websites **displayed different consent mechanisms** based on user location.
-- **Solution:**  
-  - Implemented **VPN-based testing** to analyze location-dependent compliance behavior.
 
 ---
-
 ## **Final Results**
 - **Successfully analyzed 8,453 websites.**
-- **Identified trends in non-compliance (e.g., cookies set before consent).**
-- **Overcame the limitations of Approach 1.**
+-  **Identified major trends in non-compliance, such as setting cookies before consent.**
+- **Overcame the challenge of not finding a freely available tool capable of handling large-scale GDPR compliance checks by developing our own fully automated solution, ensuring efficiency, scalability, and accuracy in analyzing 8,453 websites** 
