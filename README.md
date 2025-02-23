@@ -33,10 +33,10 @@ This approach was developed to **overcome the limitations of the 2GDPR scraper**
 
 ## **Challenges & How We Optimized the Process**
 
-### **Overcoming the Lack of a Scalable GDPR Compliance Tool**
+### **1.Overcoming the Lack of a Scalable GDPR Compliance Tool**
 Overcame the challenge of not finding a freely available tool capable of handling large-scale GDPR compliance checks by developing our own fully automated solution, ensuring efficiency, scalability, and accuracy in analyzing 8,453 websites.
  
-### **Optimizing Processing Time**
+### **2.Optimizing Processing Time**
 To handle the large dataset efficiently:
 - **Batch Processing**:
   - The dataset was split into **43 batches**, each containing **200 URLs**.
@@ -44,7 +44,7 @@ To handle the large dataset efficiently:
 - **Parallel Execution**:
   - Ran batches across **three different devices**, each handling **14 browser tabs in parallel**.
   - This strategy allowed us to process the entire dataset of **8,453 websites in under 2 hours**.
-### **2. Dynamic Content & Hidden Consent Mechanisms**
+### **3. Dynamic Content & Hidden Consent Mechanisms**
 - Some websites loaded banners asynchronously or buried consent options in deep menus.
 - **Solution:**  
   - Used **explicit waits & JavaScript execution** to handle delays.
