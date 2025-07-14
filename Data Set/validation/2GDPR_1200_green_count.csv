@@ -1,0 +1,1241 @@
+Website,Acceptance Status,Green Icons Count
+mit.edu,Not Compliant,0
+harvard.edu,Compliant,3
+stanford.edu,Not Compliant,3
+berkeley.edu,Not Compliant,3
+cornell.edu,Not Compliant,3
+washington.edu,Not Compliant,3
+princeton.edu,Compliant,3
+academia.edu,Partially,4
+columbia.edu,Compliant,5
+umich.edu,Compliant,5
+yale.edu,Compliant,4
+psu.edu,Compliant,5
+upenn.edu,Compliant,5
+uci.edu,Partially,3
+umn.edu,Error,0
+wisc.edu,Compliant,4
+jhu.edu,Error,0
+ucla.edu,Partially,3
+cmu.edu,Partially,3
+si.edu,Partially,3
+uchicago.edu,Partially,3
+utexas.edu,Partially,3
+uiuc.edu,Error,0
+nyu.edu,Compliant,5
+purdue.edu,Error,3
+usc.edu,Partially,4
+ucsd.edu,Not Compliant,3
+ufl.edu,Not Compliant,3
+duke.edu,Partially,4
+umd.edu,Not Compliant,3
+unc.edu,Partially,3
+msu.edu,Error,2
+illinois.edu,Partially,4
+ucdavis.edu,Not Compliant,3
+northwestern.edu,Not Compliant,3
+colorado.edu,Compliant,3
+asu.edu,Error,2
+rutgers.edu,Error,3
+arizona.edu,Error,2
+virginia.edu,Error,2
+brookings.edu,Not Compliant,3
+osu.edu,Not Compliant,3
+bu.edu,Not Compliant,3
+tamu.edu,Not Compliant,3
+wustl.edu,Error,0
+ncsu.edu,Partially,3
+utah.edu,Partially,4
+pitt.edu,Partially,3
+ucsb.edu,Partially,3
+georgetown.edu,Compliant,3
+indiana.edu,Compliant,3
+tufts.edu,Compliant,3
+caltech.edu,Partially,4
+unl.edu,Compliant,4
+vt.edu,Compliant,2
+hawaii.edu,Not Compliant,3
+cuny.edu,Error,0
+brown.edu,Not Compliant,3
+hbs.edu,Compliant,5
+iu.edu,Not Compliant,3
+gatech.edu,Not Compliant,3
+rochester.edu,Not Compliant,3
+umass.edu,Compliant,5
+uga.edu,Partially,3
+vanderbilt.edu,Compliant,3
+wsu.edu,Error,2
+usf.edu,Error,3
+fsu.edu,Error,3
+dartmouth.edu,Error,0
+byu.edu,Error,3
+unimelb.edu.au,Error,4
+uic.edu,Error,3
+buffalo.edu,Error,1
+emory.edu,Error,3
+ucsc.edu,Error,4
+ucr.edu,Error,3
+missouri.edu,Error,4
+uh.edu,Error,3
+rpi.edu,Error,3
+utk.edu,Error,4
+miami.edu,Error,0
+nus.edu.sg,Error,2
+unm.edu,Error,3
+northeastern.edu,Error,3
+case.edu,Error,3
+bc.edu,Error,3
+clemson.edu,Error,3
+rit.edu,Error,2
+sydney.edu.au,Error,2
+ucf.edu,Error,3
+lsu.edu,Error,3
+temple.edu,Error,2
+sdsu.edu,Error,3
+fordham.edu,Error,3
+drexel.edu,Error,2
+american.edu,Error,3
+uvm.edu,Error,3
+ub.edu,Error,3
+vcu.edu,Error,0
+ou.edu,Error,1
+tulane.edu,Error,3
+auburn.edu,Error,3
+baylor.edu,Error,3
+wvu.edu,Error,4
+uab.edu,Error,3
+csun.edu,Error,3
+rmit.edu.au,Error,2
+umbc.edu,Error,0
+alaska.edu,Error,3
+fullerton.edu,Error,3
+uwm.edu,Error,3
+unlv.edu,Error,3
+stonybrook.edu,Error,3
+sfsu.edu,Error,4
+du.edu,Error,3
+ucpress.edu,Error,3
+albany.edu,Error,3
+depaul.edu,Error,3
+artic.edu,Error,3
+niu.edu,Error,3
+unu.edu,Error,3
+upf.edu,Error,3
+nau.edu,Error,3
+montana.edu,Error,3
+swarthmore.edu,Compliant,3
+umkc.edu,Partially,3
+toronto.edu,Error,0
+iit.edu,Partially,3
+umb.edu,Not Compliant,2
+chop.edu,Not Compliant,2
+marquette.edu,Not Compliant,3
+uta.edu,Partially,4
+jhsph.edu,Not Compliant,3
+ohio.edu,Partially,3
+louisville.edu,Error,3
+slu.edu,Error,3
+wpi.edu,Error,3
+csulb.edu,Partially,3
+odu.edu,Error,0
+jmu.edu,Error,0
+maine.edu,Partially,1
+sandiego.edu,Error,3
+austlii.edu.au,Compliant,5
+ucanr.edu,Partially,4
+usra.edu,Not Compliant,3
+villanova.edu,Error,0
+liberty.edu,Not Compliant,3
+njit.edu,Error,2
+uj.edu.pl,Error,0
+udayton.edu,Error,3
+jhuapl.edu,Compliant,3
+ecu.edu,Compliant,3
+montclair.edu,Error,3
+appstate.edu,Partially,3
+uml.edu,Error,2
+uoc.edu,Partially,4
+maryville.edu,Partially,3
+miamioh.edu,Error,3
+insead.edu,Compliant,2
+amherst.edu,Not Compliant,3
+bard.edu,Partially,3
+wellesley.edu,Error,3
+uillinois.edu,Error,2
+bsu.edu,Compliant,5
+clarku.edu,Error,3
+rush.edu,Error,2
+uakron.edu,Error,3
+metu.edu.tr,Error,0
+amu.edu.pl,Partially,4
+unomaha.edu,Error,3
+qu.edu,Error,3
+hofstra.edu,Error,3
+unf.edu,Compliant,3
+tennessee.edu,Error,4
+maricopa.edu,Partially,2
+umsl.edu,Compliant,2
+ntnu.edu,Compliant,3
+uncc.edu,Partially,3
+syracuse.edu,Error,3
+phoenix.edu,Partially,2
+ucop.edu,Not Compliant,3
+wichita.edu,Partially,3
+calstatela.edu,Not Compliant,1
+snhu.edu,Compliant,3
+oakland.edu,Partially,3
+towson.edu,Compliant,5
+csusb.edu,Partially,3
+ucmerced.edu,Error,3
+kenyon.edu,Not Compliant,3
+gettysburg.edu,Error,0
+ias.edu,Not Compliant,3
+emich.edu,Error,3
+wisconsin.edu,Compliant,3
+pomona.edu,Error,3
+mei.edu,Partially,3
+gcu.edu,Not Compliant,3
+agh.edu.pl,Partially,4
+seattleu.edu,Error,3
+kumc.edu,Partially,3
+pw.edu.pl,Partially,4
+trincoll.edu,Not Compliant,3
+une.edu.au,Error,3
+northwestu.edu,Not Compliant,3
+ku.edu.tr,Error,3
+wakehealth.edu,Not Compliant,3
+hamilton.edu,Compliant,3
+uccs.edu,Not Compliant,3
+hanover.edu,Partially,3
+iese.edu,Compliant,3
+boun.edu.tr,Error,0
+nmt.edu,Error,4
+smu.edu.sg,Compliant,5
+lamar.edu,Error,3
+acenet.edu,Error,3
+upi.edu,Error,3
+nccu.edu.tw,Error,0
+ohiolink.edu,Error,3
+lclark.edu,Error,3
+tilburguniversity.edu,Compliant,3
+webster.edu,Error,3
+atauni.edu.tr,Partially,2
+tcnj.edu,Partially,3
+gallaudet.edu,Not Compliant,0
+ankara.edu.tr,Compliant,5
+scad.edu,Partially,3
+astate.edu,Error,3
+ksu.edu.sa,Partially,3
+aucegypt.edu,Partially,4
+louisiana.edu,Partially,3
+nmims.edu,Not Compliant,3
+a-star.edu.sg,Error,0
+nps.edu,Not Compliant,3
+loyola.edu,Not Compliant,3
+wcu.edu,Error,0
+uopeople.edu,Partially,3
+austincc.edu,Error,3
+aub.edu.lb,Error,3
+valpo.edu,Error,3
+andrews.edu,Error,3
+uprm.edu,Error,2
+anadolu.edu.tr,Error,4
+augusta.edu,Error,3
+umsystem.edu,Partially,4
+upr.edu,Not Compliant,0
+bond.edu.au,Error,3
+acu.edu.au,Error,3
+uww.edu,Error,1
+juilliard.edu,Compliant,2
+cqu.edu.au,Compliant,4
+amity.edu,Error,0
+udg.edu,Partially,3
+belmont.edu,Partially,3
+aces.edu,Partially,3
+valdosta.edu,Error,3
+artcenter.edu,Error,3
+widener.edu,Error,3
+hec.edu,Not Compliant,3
+siena.edu,Error,3
+stkate.edu,Error,3
+hccs.edu,Not Compliant,3
+lawrence.edu,Error,2
+winthrop.edu,Error,2
+polytechnique.edu,Compliant,5
+csueastbay.edu,Error,4
+excelsior.edu,Not Compliant,3
+sae.edu,Not Compliant,2
+alexu.edu.eg,Error,0
+wpunj.edu,Error,3
+smccd.edu,Compliant,3
+emporia.edu,Compliant,3
+artinstitutes.edu,Compliant,5
+gustavus.edu,Error,3
+stlawu.edu,Partially,3
+losrios.edu,Error,3
+akdeniz.edu.tr,Partially,3
+augsburg.edu,Not Compliant,3
+southernct.edu,Partially,3
+apus.edu,Not Compliant,3
+cca.edu,Error,3
+augustana.edu,Error,3
+essec.edu,Error,2
+omu.edu.tr,Partially,4
+annauniv.edu,Compliant,5
+alquds.edu,Partially,3
+csp.edu,Partially,3
+au.edu,Error,0
+eurac.edu,Compliant,5
+cu.edu,Partially,3
+agnesscott.edu,Compliant,3
+noirlab.edu,Partially,3
+anselm.edu,Not Compliant,3
+apsu.edu,Error,2
+just.edu.jo,Compliant,5
+cu.edu.eg,Error,0
+franklin.edu,Error,3
+manipal.edu,Error,3
+icsi.edu,Error,3
+vccs.edu,Not Compliant,1
+arcadia.edu,Error,3
+albion.edu,Compliant,3
+ammanu.edu.jo,Compliant,5
+goshen.edu,Error,1
+alfred.edu,Error,3
+bridgeport.edu,Error,3
+aum.edu,Compliant,3
+alamo.edu,Partially,3
+mesacc.edu,Compliant,3
+aiou.edu.pk,Compliant,5
+amrita.edu,Compliant,2
+minnstate.edu,Not Compliant,3
+strayer.edu,Not Compliant,2
+aku.edu,Compliant,5
+centre.edu,Not Compliant,2
+adrian.edu,Partially,4
+ahu.edu.cn,Error,0
+assumption.edu,Not Compliant,3
+uchospitals.edu,Error,0
+alasu.edu,Error,3
+andhrauniversity.edu.in,Error,0
+ktu.edu,Compliant,5
+allegheny.edu,Partially,3
+ateneo.edu,Error,0
+atu.edu,Partially,3
+agu.edu.tr,Error,0
+pu.edu.pk,Partially,4
+pasadena.edu,Error,3
+uwp.edu,Error,3
+purchase.edu,Error,2
+indwes.edu,Error,3
+aup.edu,Partially,3
+upc.edu.cn,Error,0
+southeastern.edu,Compliant,5
+antioch.edu,Error,3
+psi.edu,Error,0
+bjut.edu.cn,Error,0
+lanecc.edu,Error,3
+lehman.edu,Error,3
+aps.edu,Error,3
+chatham.edu,Error,3
+cpcc.edu,Error,3
+nebraska.edu,Error,3
+mcdaniel.edu,Error,3
+stlcc.edu,Error,3
+aurora.edu,Error,3
+ogi.edu,Error,0
+amasya.edu.tr,Error,4
+dlsu.edu.ph,Error,0
+udallas.edu,Error,3
+ncepu.edu.cn,Error,0
+unilag.edu.ng,Error,3
+naic.edu,Error,0
+shufe.edu.cn,Error,0
+manhattan.edu,Error,3
+sdnu.edu.cn,Error,0
+iseas.edu.sg,Error,4
+uprrp.edu,Error,3
+ecpi.edu,Error,3
+aiims.edu,Partially,3
+alraziuni.edu.ye,Error,4
+palermo.edu,Not Compliant,3
+acer.edu.au,Error,0
+njcu.edu,Error,3
+niagara.edu,Error,3
+csn.edu,Partially,3
+bju.edu,Compliant,4
+arbor.edu,Partially,3
+atsu.edu,Error,3
+andover.edu,Not Compliant,3
+ups.edu,Error,0
+waketech.edu,Not Compliant,0
+johncabot.edu,Not Compliant,1
+kh.edu.tw,Error,0
+pointloma.edu,Not Compliant,3
+eou.edu,Partially,3
+easternct.edu,Not Compliant,0
+amc.edu,Partially,4
+uncsa.edu,Not Compliant,2
+ma.edu,Error,0
+ascsa.edu.gr,Not Compliant,0
+oit.edu,Not Compliant,0
+gzu.edu.cn,Error,0
+torrens.edu.au,Compliant,2
+whu.edu,Compliant,5
+ahnu.edu.cn,Error,0
+digipen.edu,Compliant,5
+augie.edu,Partially,3
+morningside.edu,Compliant,3
+mcneese.edu,Partially,2
+austincollege.edu,Compliant,3
+clayton.edu,Partially,3
+ankarabilim.edu.tr,Not Compliant,2
+kedge.edu,Compliant,5
+aus.edu,Partially,3
+diplomacy.edu,Partially,3
+australiancurriculum.edu.au,Not Compliant,3
+anderson.edu,Error,3
+ashford.edu,Error,3
+asu.edu.eg,Not Compliant,3
+ui.edu.ng,Compliant,5
+ajes.edu.br,Compliant,5
+uniminuto.edu,Error,2
+alcorn.edu,Error,3
+coa.edu,Partially,3
+iau.edu.sa,Partially,3
+ufgd.edu.br,Error,0
+resh.edu.ru,Error,0
+tstc.edu,Error,3
+wum.edu.pl,Partially,3
+gordonconwell.edu,Error,3
+scsu.edu,Not Compliant,3
+theartofeducation.edu,Partially,3
+mccneb.edu,Error,0
+uel.edu.vn,Error,4
+aacc.edu,Error,3
+coe.edu,Error,2
+ahut.edu.cn,Error,0
+must.edu.mo,Error,0
+asurams.edu,Error,4
+notredame.edu.au,Partially,3
+aquinas.edu,Compliant,3
+lincolntech.edu,Compliant,3
+massachusetts.edu,Compliant,3
+achs.edu,Compliant,3
+kozminski.edu.pl,Partially,3
+thomas.edu,Not Compliant,3
+colombiaaprende.edu.co,Compliant,3
+mci.edu,Compliant,5
+fhda.edu,Error,3
+aiuniv.edu,Compliant,5
+adu.edu.tr,Error,0
+aims.edu,Compliant,5
+macomb.edu,Not Compliant,3
+albright.edu,Error,3
+aust.edu.cn,Error,0
+viterbo.edu,Not Compliant,2
+sust.edu,Partially,4
+21.edu.ar,Partially,3
+umary.edu,Error,2
+ahmu.edu.cn,Error,0
+austral.edu.ar,Error,3
+ahau.edu.cn,Error,0
+moody.edu,Error,2
+avila.edu,Error,3
+aic.edu,Error,3
+glion.edu,Compliant,2
+asia.edu.tw,Error,0
+afit.edu,Error,0
+oauife.edu.ng,Error,3
+alfredstate.edu,Not Compliant,3
+ashoka.edu.in,Not Compliant,2
+unn.edu.ng,Compliant,5
+aiu.edu,Compliant,3
+sccollege.edu,Error,3
+abtech.edu,Compliant,3
+bergen.edu,Error,3
+loras.edu,Error,0
+10mektep-ns.edu.kz,Error,0
+asmibmr.edu.in,Compliant,3
+aglc1972.edu.in,Compliant,5
+ahu.edu,Not Compliant,3
+alaskapacific.edu,Error,3
+athens.edu,Error,3
+asa.edu.py,Not Compliant,3
+fis.edu,Error,4
+aufe.edu.cn,Error,0
+lakeland.edu,Error,3
+kfshrc.edu.sa,Error,0
+ashworthcollege.edu,Compliant,3
+onu.edu.ua,Error,4
+sdmesa.edu,Not Compliant,1
+alsde.edu,Error,0
+snu.edu.in,Not Compliant,2
+aitsl.edu.au,Not Compliant,3
+amarutalent.edu.pe,Error,0
+austlit.edu.au,Compliant,5
+avc.edu,Error,0
+andersonuniversity.edu,Compliant,5
+aku.edu.tr,Compliant,5
+ifsc.edu.br,Error,3
+arapahoe.edu,Partially,3
+elac.edu,Error,0
+abuad.edu.ng,Partially,3
+albanylaw.edu,Error,3
+ahstu.edu.cn,Error,0
+ati.edu.my,Compliant,5
+psut.edu.jo,Error,3
+usz.edu.pl,Error,4
+ahuri.edu.au,Error,2
+aud.edu,Error,2
+atilim.edu.tr,Error,2
+albertus.edu,Error,3
+anits.edu.in,Error,4
+qtech.edu.cn,Error,0
+uafs.edu,Partially,3
+asa.edu,Error,0
+acara.edu.au,Partially,3
+ats.edu,Partially,4
+ahtcm.edu.cn,Error,0
+nwc.edu,Partially,3
+abu.edu.ng,Partially,4
+averett.edu,Compliant,3
+unwsp.edu,Partially,2
+glmc.edu.cn,Error,0
+sdccd.edu,Error,3
+aksaray.edu.tr,Error,0
+avemaria.edu,Error,0
+jccmi.edu,Error,3
+nou.edu.ng,Error,2
+jaduniv.edu.in,Compliant,5
+gxtc.edu.cn,Error,0
+hueuni.edu.vn,Error,4
+aucmed.edu,Not Compliant,3
+notredamecollege.edu,Not Compliant,0
+alanus.edu,Compliant,5
+asnc.edu.cn,Error,0
+argosy.edu,Error,0
+aiti.edu.vn,Partially,2
+aun.edu.eg,Error,0
+atu.edu.iq,Compliant,5
+anokaramsey.edu,Compliant,3
+annamaria.edu,Compliant,3
+muih.edu,Partially,3
+scottsdalecc.edu,Compliant,2
+aspen.edu,Not Compliant,3
+apollos.edu,Compliant,5
+aju.edu,Compliant,3
+tias.edu,Compliant,2
+pja.edu.pl,Partially,3
+asub.edu,Not Compliant,3
+astrouw.edu.pl,Compliant,5
+mvnu.edu,Not Compliant,2
+waldorf.edu,Compliant,3
+sustc.edu.cn,Error,0
+auctr.edu,Partially,4
+aug.edu,Partially,4
+swtc.edu,Error,0
+briarcliff.edu,Error,3
+smccme.edu,Compliant,3
+columbiastate.edu,Partially,3
+usantotomas.edu.co,Partially,3
+khai.edu,Not Compliant,3
+sjzc.edu.cn,Error,0
+northcentral.edu,Partially,3
+cptc.edu,Error,3
+ucf.edu.cu,Error,0
+upsa.edu.bo,Error,2
+udem.edu.co,Error,0
+lackawanna.edu,Compliant,3
+sf.edu,Not Compliant,3
+agri.edu.tr,Compliant,5
+amda.edu,Error,3
+ace.edu,Compliant,3
+flcc.edu,Error,3
+blanquerna.edu,Partially,2
+atlantic.edu,Error,0
+aimseducation.edu,Compliant,3
+accd.edu,Error,0
+atlanticcape.edu,Compliant,3
+ardc.edu.au,Error,3
+alc.edu,Partially,3
+amcollege.edu,Compliant,5
+ahpu.edu.cn,Error,0
+seattlecolleges.edu,Error,4
+lwtech.edu,Error,0
+ashesi.edu.gh,Partially,4
+chicagogsb.edu,Error,0
+ciesas.edu.mx,Partially,2
+uthct.edu,Error,0
+undav.edu.ar,Error,3
+nyaa.edu,Compliant,3
+ciu.edu.tr,Compliant,2
+sagrado.edu,Partially,3
+chnu.edu.ua,Partially,4
+cust.edu.tw,Error,0
+skagit.edu,Error,4
+paaet.edu.kw,Error,0
+utec.edu.pe,Error,0
+pdsu.edu.cn,Error,0
+nua.edu.cn,Error,0
+njut.edu.cn,Error,0
+hbpa.edu.cn,Error,0
+sunysccc.edu,Error,3
+seti-inst.edu,Error,0
+guc.edu.eg,Error,3
+unilasalle.edu.br,Error,3
+siam.edu,Error,3
+hebeinu.edu.cn,Error,0
+tjac.edu.cn,Error,0
+aftrs.edu.au,Partially,3
+jscc.edu,Partially,4
+ucblueash.edu,Error,3
+jcu.edu.sg,Partially,3
+galileo.edu,Error,3
+south.edu,Error,0
+wfmc.edu.cn,Error,0
+remingtoncollege.edu,Not Compliant,3
+wwc.edu,Error,0
+wc.edu,Partially,3
+hrbu.edu.cn,Error,0
+ci-ucbc.edu.cd,Compliant,5
+untsystem.edu,Error,4
+ngu.edu,Error,3
+parisjc.edu,Partially,4
+allegany.edu,Error,3
+kendall.edu,Error,0
+swfc.edu.cn,Error,0
+tcsg.edu,Partially,3
+udes.edu.co,Compliant,3
+admu.edu.ph,Error,0
+hljit.edu.cn,Error,0
+chattahoocheetech.edu,Error,3
+coconino.edu,Error,0
+itba.edu.ar,Partially,2
+oum.edu.my,Error,0
+mtc.edu,Not Compliant,3
+bmu.edu.in,Not Compliant,2
+unab.edu.ar,Partially,3
+annals.edu.sg,Compliant,4
+aiimsbhopal.edu.in,Compliant,5
+unifal-mg.edu.br,Not Compliant,3
+asu.edu.cn,Error,0
+ahievran.edu.tr,Not Compliant,3
+alfaisal.edu,Error,0
+vermontstate.edu,Error,3
+ataaof.edu.tr,Partially,4
+biu.edu.ng,Partially,3
+cvcc.edu,Error,0
+cotc.edu,Partially,3
+alanya.edu.tr,Error,0
+areandina.edu.co,Error,3
+americansentinel.edu,Error,0
+artvin.edu.tr,Compliant,3
+sum.edu.pl,Error,4
+aiimsraipur.edu.in,Compliant,5
+nit.edu.cn,Error,0
+nuc.edu.ng,Compliant,5
+anep.edu.uy,Error,3
+ahjzu.edu.cn,Error,0
+ebooks.edu.gr,Error,3
+ahec.edu,Error,3
+alextech.edu,Error,3
+amc.edu.mx,Error,3
+asu.edu.ru,Error,0
+cruzeirodosul.edu.br,Error,1
+accs.edu,Error,3
+aur.edu,Error,3
+alu.edu,Error,3
+cnsu.edu,Partially,3
+texarkanacollege.edu,Compliant,3
+aubg.edu,Compliant,4
+e-imamu.edu.sa,Error,0
+svots.edu,Partially,4
+cjcu.edu.tw,Error,0
+atlantatech.edu,Partially,3
+hillcollege.edu,Error,0
+principiacollege.edu,Error,3
+lasu.edu.ng,Not Compliant,3
+socc.edu,Error,3
+ignatianum.edu.pl,Error,3
+cccti.edu,Partially,4
+dinecollege.edu,Not Compliant,3
+drexelmed.edu,Error,0
+hitsz.edu.cn,Error,0
+bethelcollege.edu,Compliant,5
+au.edu.tw,Error,0
+tompkinscortland.edu,Not Compliant,3
+laredo.edu,Error,0
+nafa.edu.sg,Error,3
+aiimsrishikesh.edu.in,Error,3
+gumushane.edu.tr,Error,3
+nlu.edu.ua,Error,0
+tsatu.edu.ua,Not Compliant,1
+uok.edu.pk,Error,4
+sco.edu,Error,3
+victoriacollege.edu,Error,3
+jxust.edu.cn,Error,0
+tau.edu.tr,Compliant,5
+aiub.edu,Error,0
+gipe.edu.cn,Error,0
+amberton.edu,Error,3
+uit.edu.vn,Partially,4
+antiochcollege.edu,Error,3
+albizu.edu,Error,3
+cicp.edu.cn,Error,0
+nu.edu.bd,Error,0
+concentra.edu.do,Compliant,5
+lakemichigancollege.edu,Error,3
+usek.edu.lb,Not Compliant,3
+gasou.edu,Error,0
+usfsp.edu,Error,0
+mesa.edu.au,Error,3
+una.edu.ar,Error,3
+nel.edu,Compliant,5
+hsu.edu.cn,Error,0
+cascadia.edu,Error,3
+aiimsjodhpur.edu.in,Error,3
+usac.edu,Not Compliant,3
+rustcollege.edu,Compliant,5
+izu.edu.tr,Partially,2
+core.edu.au,Error,3
+icbelfortedelchienti.edu.it,Error,0
+sytu.edu.cn,Error,0
+batdongsan24h.edu.vn,Not Compliant,2
+flacso.edu.ec,Error,2
+hebiace.edu.cn,Error,0
+thietkeinan.edu.vn,Error,2
+jleea.edu.cn,Error,0
+zjtu.edu.cn,Error,0
+unijos.edu.ng,Error,3
+chopin.edu.pl,Error,3
+sandburg.edu,Error,0
+civitas.edu.pl,Error,0
+luz.edu.ve,Partially,4
+aviationmaintenance.edu,Compliant,3
+jzu.edu.cn,Error,0
+mcast.edu.mt,Partially,3
+yhc.edu,Error,3
+tribhuvan-university.edu.np,Error,0
+montgomery.edu,Partially,4
+unillanos.edu.co,Error,3
+nkfust.edu.tw,Error,0
+kmyz.edu.cn,Error,0
+cqtbi.edu.cn,Compliant,5
+bc3.edu,Error,3
+melbournepolytechnic.edu.au,Error,3
+florey.edu.au,Compliant,3
+tncc.edu,Error,3
+amc.edu.au,Not Compliant,2
+arabaevksu.edu.kg,Compliant,5
+asun.edu,Compliant,5
+vntu.edu.ua,Error,4
+archiwum.edu.pl,Error,0
+aauni.edu,Compliant,2
+alamancecc.edu,Error,1
+ah.edu.cn,Error,0
+donnu.edu.ua,Compliant,5
+ahduni.edu.in,Error,3
+aib.edu.au,Compliant,2
+hypnosis.edu,Error,0
+bsmu.edu.ua,Partially,4
+neduet.edu.pk,Error,3
+altinbas.edu.tr,Error,2
+ewubd.edu,Not Compliant,1
+artuklu.edu.tr,Error,4
+esenyurt.edu.tr,Error,4
+ufcspa.edu.br,Compliant,5
+compton.edu,Error,4
+blair.edu,Error,3
+uvsc.edu,Error,0
+cuk.edu,Error,3
+nashcc.edu,Error,3
+karatekin.edu.tr,Error,3
+bzu.edu.cn,Error,0
+lbs.edu.ng,Error,3
+duhocphap.edu.vn,Error,0
+luguniv.edu.ua,Compliant,5
+uconline.edu,Error,4
+dscc.edu,Error,4
+wsutech.edu,Error,3
+evergladesuniversity.edu,Error,3
+ntcmn.edu,Error,4
+zut.edu.cn,Error,0
+vcccd.edu,Not Compliant,3
+tarbut.edu.mx,Compliant,5
+ambrose.edu,Compliant,3
+ambs.edu,Not Compliant,3
+aim.edu,Partially,4
+athenstech.edu,Error,3
+artacademy.edu,Error,4
+zjfc.edu.cn,Error,0
+zjhu.edu.cn,Error,0
+chuhai.edu.hk,Error,0
+bmr.edu.vn,Error,0
+suscc.edu,Error,3
+morrisbrown.edu,Error,4
+holmescc.edu,Error,0
+americancareercollege.edu,Error,3
+tcioe.edu.np,Not Compliant,3
+sun.edu.ng,Error,0
+arel.edu.tr,Error,2
+aiam.edu,Not Compliant,3
+apsl.edu.pl,Error,0
+ztu.edu.ua,Error,3
+augustatech.edu,Error,3
+asl.edu,Partially,3
+saintmeinrad.edu,Error,0
+avemarialaw.edu,Partially,3
+aultmancollege.edu,Error,0
+5zszv.edu.sk,Not Compliant,3
+acap.edu.au,Error,3
+sais.edu.sg,Compliant,2
+aeu.edu,Error,3
+bdu.edu.cn,Error,0
+spokanefalls.edu,Compliant,5
+clevelandstatecc.edu,Not Compliant,3
+albanytech.edu,Error,0
+casperlibero.edu.br,Error,2
+ajcunet.edu,Partially,4
+eul.edu.tr,Compliant,5
+stanly.edu,Error,0
+hkis.edu.hk,Error,3
+svu.edu.eg,Error,0
+aula.edu.pe,Error,3
+ucsc-extension.edu,Compliant,3
+bdu.edu.et,Error,3
+alfredadler.edu,Error,3
+aimm.edu,Error,3
+aps.edu.pl,Error,0
+dlvtc.edu.cn,Error,0
+spcc.edu,Not Compliant,3
+huflit.edu.vn,Error,3
+clatsopcc.edu,Error,4
+cottey.edu,Error,4
+aii.edu,Compliant,5
+nur.edu,Error,3
+wsinf.edu.pl,Partially,3
+hku.edu.tr,Compliant,5
+rbc.edu,Error,3
+fae.edu,Error,2
+agu.edu.vn,Error,0
+babcock.edu.ng,Error,3
+wku.edu.kz,Error,3
+hacz.edu.cn,Error,0
+edmc.edu,Error,0
+ceibse.edu.uy,Compliant,5
+evaluare.edu.ro,Error,0
+cds.edu,Error,4
+smu.edu.in,Error,4
+jyc.edu.cn,Error,0
+isk.edu.my,Partially,2
+northgeorgia.edu,Error,0
+abcnash.edu,Error,3
+hpa.edu,Error,3
+aestheticscienceinstitute.edu,Compliant,5
+francistuttle.edu,Error,0
+hk.edu.tw,Error,0
+nxtc.edu.cn,Error,0
+msa.edu.eg,Error,3
+bsa.edu.lv,Partially,4
+cqust.edu.cn,Error,0
+navajotech.edu,Error,0
+shin-ibs.edu,Compliant,5
+iue.edu.co,Compliant,5
+gdin.edu.cn,Error,0
+gxau.edu.cn,Error,0
+dau.edu.vn,Error,2
+spfldcol.edu,Error,0
+nujs.edu,Error,4
+unitec.edu,Error,0
+eccc.edu,Error,0
+bgsp.edu,Not Compliant,3
+cernet.edu.cn,Error,0
+uniquindio.edu.co,Error,3
+auraria.edu,Error,0
+eastwest.edu,Error,3
+nycpm.edu,Not Compliant,3
+oukirilimetodij.edu.mk,Error,0
+utc.edu.vn,Error,0
+sl.edu,Error,0
+lnit.edu.cn,Error,0
+davisny.edu,Error,3
+kspu.edu,Partially,4
+lsu.edu.cn,Error,0
+mok.edu.kz,Compliant,5
+unibague.edu.co,Error,2
+anc.edu,Compliant,5
+cunef.edu,Not Compliant,2
+8adaykem.edu.vn,Error,0
+iaen.edu.ec,Error,1
+univem.edu.br,Error,0
+ghc.edu,Error,4
+unat.edu.pe,Error,0
+zjcm.edu.cn,Error,0
+whmc.edu.cn,Error,0
+minsk.edu.by,Error,0
+vtac.edu.au,Not Compliant,3
+swtjc.edu,Error,0
+richlandcollege.edu,Error,0
+zua.edu.cn,Error,0
+lassho.edu.vn,Error,4
+acp.edu,Compliant,3
+kbs.edu.au,Error,3
+mcbu.edu.tr,Error,4
+unical.edu.ng,Error,2
+tlu.edu.cn,Error,0
+gufe.edu.cn,Error,0
+uasystem.edu,Partially,4
+gtiit.edu.cn,Error,0
+pau.edu.ng,Error,3
+ccer.edu.cn,Error,0
+ifpi.edu.br,Error,0
+riverdale.edu,Error,4
+sunycgcc.edu,Error,0
+haywood.edu,Error,3
+kcu.edu,Partially,4
+albemarle.edu,Error,3
+lpubatangas.edu.ph,Compliant,5
+brcc.edu,Error,3
+ccsnh.edu,Partially,3
+bvuniversity.edu.in,Error,4
+kgdc.edu.bd,Compliant,5
+atitus.edu.br,Error,3
+onua.edu.ua,Error,3
+gszs.edu.cn,Error,0
+hngazk.edu.cn,Error,0
+uagm.edu,Error,3
+curtin.edu.my,Error,3
+utech.edu.jm,Not Compliant,2
+au.edu.pk,Error,3
+bafsb.edu.bd,Error,4
+gench.edu.cn,Error,0
+aiai.edu.cn,Error,0
+glnc.edu.cn,Error,0
+fbise.edu.pk,Error,3
+robertmorris.edu,Error,0
+stmatthews.edu,Compliant,5
+coastalbend.edu,Error,3
+dkiapcss.edu,Partially,4
+wesleyseminary.edu,Partially,3
+denmarktech.edu,Error,3
+fomento.edu,Partially,3
+ec.edu,Compliant,5
+uokufa.edu.iq,Error,0
+sanxiau.edu.cn,Error,0
+lassencollege.edu,Compliant,5
+platt.edu,Error,3
+tcu.edu.cn,Error,0
+amt.edu.au,Not Compliant,3
+rivervalley.edu,Error,3
+reva.edu.in,Error,2
+osisat.edu.ng,Partially,3
+yulinu.edu.cn,Error,0
+mutah.edu.jo,Error,3
+asu.edu.kz,Partially,3
+cqit.edu.cn,Error,0
+nwicc.edu,Not Compliant,3
+educando.edu.do,Error,0
+aaru.edu.jo,Compliant,5
+otech.edu,Error,3
+sxjt.edu.cn,Error,0
+mitchelltech.edu,Error,0
+ifma.edu.br,Compliant,5
+isothermal.edu,Error,0
+lingnankn.edu.hk,Error,0
+columbiacollege.edu,Error,0
+coastalcarolina.edu,Error,3
+une.edu.pe,Compliant,5
+dypatil.edu,Error,3
+fadu.edu.uy,Not Compliant,2
+acc.edu.au,Not Compliant,3
+aiimsnagpur.edu.in,Compliant,5
+admitere.edu.ro,Error,0
+auto.edu,Partially,4
+austinseminary.edu,Error,3
+siirt.edu.tr,Error,4
+fy.edu.tw,Error,0
+nttc.edu,Error,0
+hfnu.edu.cn,Error,0
+glite.edu.cn,Error,0
+ict.edu,Error,3
+carlalbert.edu,Error,4
+msu.edu.my,Error,3
+criswell.edu,Error,3
+asumh.edu,Error,3
+richmondcc.edu,Error,3
+suez.edu.eg,Compliant,5
+apostolic.edu,Error,3
+atc.edu,Partially,3
+nkuht.edu.tw,Error,0
+heut.edu.cn,Error,0
+uj.edu.sa,Error,0
+wvncc.edu,Error,3
+ncmissouri.edu,Partially,4
+hallmark.edu,Not Compliant,3
+rhodesstate.edu,Error,0
+ueb.edu.vn,Error,0
+unicuritiba.edu.br,Error,0
+xmoc.edu.cn,Error,0
+sittingbull.edu,Error,3
+mccks.edu,Compliant,5
+aabu.edu.jo,Partially,4
+sfrcollege.edu.in,Compliant,5
+atlm.edu,Error,0
+meridiancc.edu,Error,3
+ntu.edu.vn,Error,0
+swmu.edu.cn,Error,0
+wspc.edu.cn,Error,0
+habc.edu.cn,Error,0
+paluniv.edu.ps,Error,3
+catlin.edu,Error,3
+angelina.edu,Partially,3
+pnwu.edu,Compliant,3
+alpenacc.edu,Error,0
+hnuc.edu.cn,Error,0
+unimaid.edu.ng,Compliant,5
+luthercollege.edu,Error,3
+pcj.edu,Error,4
+neoucom.edu,Error,0
+gntc.edu,Error,3
+dallas.edu,Error,3
+ujd.edu.pl,Error,3
+pgdbadon.edu.vn,Error,1
+antalya.edu.tr,Error,4
+escuelaing.edu.co,Error,3
+thegordon.edu.au,Error,3
+anokatech.edu,Error,3
+adcet.edu.au,Error,4
+collaw.edu.au,Error,3
+vspmdcrc.edu.in,Compliant,5
+ozal.edu.tr,Error,0
+yalova.edu.tr,Compliant,5
+lzufe.edu.cn,Error,0
+ico.edu,Compliant,5
+asu.edu.jo,Error,2
+hkdi.edu.hk,Error,2
+policia.edu.co,Error,3
+jupas.edu.hk,Error,0
+fayoum.edu.eg,Error,0
+ntch.edu.tw,Error,0
+unyleya.edu.br,Error,3
+sdu.edu.kz,Error,2
+puthisastra.edu.kh,Error,3
+ugf.edu,Error,0
+ydu.edu.tw,Error,0
+iestpliliagutierrez.edu.pe,Not Compliant,3
+akira.edu.vn,Not Compliant,2
+auhs.edu,Error,3
+auaf.edu.af,Compliant,5
+veltech.edu.in,Error,3
+nuwm.edu.ua,Partially,2
+alparslan.edu.tr,Compliant,5
+autonoma.edu.co,Error,0
+ankaramedipol.edu.tr,Compliant,5
+aun.edu.ng,Not Compliant,3
+105.edu.pl,Partially,3
+garrettcollege.edu,Not Compliant,3
+nccc.edu,Error,3
+neci.edu,Compliant,5
+aviator.edu,Not Compliant,3
+aku.edu.cn,Error,0
+sirnak.edu.tr,Error,4
+dav.edu.vn,Error,4
+pgddailoc.edu.vn,Not Compliant,3
+lythuongkiet-nuithanh.edu.vn,Partially,3
+lzmc.edu.cn,Error,0
+wosc.edu,Error,0
+aland.edu.vn,Not Compliant,3
+atbu.edu.ng,Not Compliant,3
+4cd.edu,Error,4
+klamathcc.edu,Compliant,3
+aes.edu.pl,Error,0
+aveda.edu,Partially,3
+ahsztc.edu.cn,Error,0
+anminh.edu.vn,Error,2
+ameritech.edu,Error,0
+aiimspatna.edu.in,Error,0
+arsc.edu,Error,0
+alinnco.edu.mx,Partially,4
+abdc.edu.au,Partially,4
+aust.edu,Error,0
+aimms.edu.pk,Compliant,5
+amridgeuniversity.edu,Error,0
+autotraining.edu,Error,1
+atsu.edu.ge,Compliant,5
+aidt.edu,Error,3
+artclassic.edu.ru,Error,0
+zak.edu.pl,Error,2
+aa.edu,Error,3
+aup.edu.pk,Compliant,5
+asnuntuck.edu,Error,0
+mandoulides.edu.gr,Error,2
+adamson.edu.ph,Partially,4
+southernregional.edu,Error,0
+ous.edu,Error,0
+unid.edu.mx,Error,0
+mahsa.edu.my,Error,0
+icourses.edu.cn,Error,0
+atlantisuniversity.edu,Error,3
+uparsistem.edu.co,Error,4
+ardahan.edu.tr,Not Compliant,3
+oakhills.edu,Partially,4
+auk.edu.kw,Error,3
+hutb.edu.cn,Compliant,5
+aiimskalyani.edu.in,Error,0
+hcmup.edu.vn,Compliant,5
+aimst.edu.my,Error,2
+agu.edu.bh,Error,4
+agastyaacademy.edu.in,Compliant,5
+aiimsrbl.edu.in,Error,0
+aiou.edu,Error,0
+alazhar.edu.ps,Compliant,5
+allencc.edu,Error,3
+alleg.edu,Error,0
+golfcollege.edu,Compliant,5
+alba.edu.gr,Error,0
+adu.edu,Error,0
+akbible.edu,Compliant,5
+auis.edu.krd,Compliant,5
+auc.edu,Compliant,5
+photodentro.edu.gr,Error,3
+aurouniversity.edu.in,Error,3
+antioch-college.edu,Error,0
+athenscollege.edu.gr,Not Compliant,3
+aucenter.edu,Compliant,5
+asian.edu.vn,Not Compliant,3
+29mayis.edu.tr,Partially,4
+ahzyygz.edu.cn,Error,0
+aiccu.edu,Compliant,5
+asta.edu.au,Compliant,4
+aim.edu.au,Compliant,5
+afmc.edu.bd,Compliant,5
+asiapacific.edu,Not Compliant,3
+aie.edu.au,Error,2
+anaheim.edu,Partially,3
+aaart.edu,Partially,3
+apiit.edu.my,Error,0
+aiimsgorakhpur.edu.in,Error,0
+ajula.edu,Error,0
+asumidsouth.edu,Partially,3
+aisnsw.edu.au,Compliant,4
+avalon.edu,Not Compliant,3
+aiimsmangalagiri.edu.in,Error,0
+auts.edu.cn,Error,0
+aupr.edu,Error,3
+agts.edu,Error,0
+ai.edu,Compliant,3
+amu.edu.et,Error,0
+adonai.edu.ec,Error,0
+asb.edu.my,Compliant,3
+amuz.edu.pl,Partially,3
+annaifathimacollege.edu.in,Partially,4
+aeu.edu.my,Not Compliant,2
+aiimsdeoghar.edu.in,Error,0
+andrewcollege.edu,Error,3
+auchipoly.edu.ng,Compliant,5
+avedafi.edu,Partially,3
+ahszu.edu.cn,Error,0
+agsm.edu.au,Error,0
+ams.edu.sg,Partially,4
+alqalam.edu.pk,Compliant,5
+aiimsbilaspur.edu.in,Compliant,5
+at.edu.pl,Error,0
+ausstage.edu.au,Partially,4
+aceinternational.edu.in,Error,0
+afs.edu.gr,Error,0
+abiastateuniversity.edu.ng,Compliant,5
+ecotec.edu.ec,Partially,2
+bethany.edu,Compliant,5
+hci.edu,Error,3
+umet.edu.ec,Not Compliant,3
+salzburgcollege.edu,Compliant,5
+tis.edu.in,Compliant,3
+bpkihs.edu,Partially,4
+phenikaa-uni.edu.vn,Error,2
+eca.edu.au,Partially,4
+zufedfc.edu.cn,Error,0
+aum.edu.kw,Error,0
+aiu.edu.kw,Error,3
+apollo.edu.vn,Error,0
+3qmrcjunior.edu.my,Compliant,5
+apollo.edu,Error,0
+arabou.edu.kw,Error,0
+atn.edu.au,Partially,4
+avantisac.edu.pe,Error,0
+aiias.edu,Error,0
+aust.edu.ng,Compliant,5
+austinc.edu,Error,0
+adelekeuniversity.edu.ng,Compliant,5
+avc.edu.lr,Not Compliant,3
+aknu.edu.in,Not Compliant,3
+aui.edu,Partially,4
+animschool.edu,Error,0
+avedaarts.edu,Error,3
+uncaus.edu.ar,Compliant,5
+asust.edu.cn,Error,0
+acupuncture.edu,Not Compliant,0
+ajku.edu.pk,Compliant,5
+numspak.edu.pk,Not Compliant,3
+bmats.edu,Partially,3
+tcatnashville.edu,Partially,3
+dcad.edu,Compliant,2
+umindanao.edu.ph,Partially,1
+aswu.edu.eg,Not Compliant,3
+usbmed.edu.co,Not Compliant,3
+bluecliffcollege.edu,Partially,3
+cjc.edu,Partially,4
+lrcc.edu,Partially,3
+multivix.edu.br,Compliant,5
+odtu.edu.tr,Error,0
+uamd.edu.al,Compliant,5
+alice-smith.edu.my,Compliant,3
+apex.edu.in,Error,0
+tln.edu.ee,Error,0
+edithcowancollege.edu.au,Compliant,3
+mccb.edu,Error,4
+middlesexcollege.edu,Error,3
+unas.edu.pe,Error,0
+hbfu.edu.cn,Error,0
+tftc.edu.cn,Error,0
+kart.edu.ua,Compliant,5
+excelsia.edu.au,Not Compliant,2
+umb.edu.co,Error,0
+ugb.edu.sv,Partially,4
+hunu.edu.cn,Error,0
+ztc.edu.cn,Error,0
+aiimsbathinda.edu.in,Compliant,5
+astanait.edu.kz,Compliant,5
+antiochseattle.edu,Error,0
+amsamoa.edu,Compliant,5
+ameb.edu.au,Partially,2
+aibschool.edu,Not Compliant,3
+madonnauniversity.edu.ng,Partially,3
+anc.edu.ro,Not Compliant,3
+alaqsa.edu.ps,Compliant,5
+aksu.edu.ng,Compliant,5
+aie.edu,Error,2
+lextheo.edu,Not Compliant,3
+atlas.edu.tr,Not Compliant,2
+atc-audit.edu.vn,Compliant,5
+polac.edu.ng,Partially,3
+kiet.edu,Error,2
+austingrad.edu,Error,0
+8aacademy.edu.vn,Partially,1
+atlantictechnicalcollege.edu,Compliant,5
+ata.edu,Compliant,3
+sebc.edu,Error,0
+jseti.edu.cn,Error,0
+kirkland.edu.pl,Compliant,5
+aul.edu.ng,Not Compliant,3
+multiculturalaustralia.edu.au,Compliant,5
+icpla.edu,Partially,4
+limu.edu.ly,Partially,4
+ku.edu.af,Compliant,5
+daknong.edu.vn,Error,4
+hmu.edu.krd,Not Compliant,3
+atmc.edu.au,Compliant,5
+anatolia.edu.gr,Not Compliant,3
+acce.edu.au,Partially,4
+adpuquba.edu.az,Not Compliant,3
+asiaeducation.edu.au,Error,0
