@@ -55,4 +55,9 @@ To handle the large dataset efficiently:
 ## **Final Results**
 - **Successfully analyzed 8,453 websites.**
 -  **Identified major trends in non-compliance, such as setting cookies before consent.**
-- **Overcame the challenge of not finding a freely available tool capable of handling large-scale GDPR compliance checks by developing our own fully automated solution, ensuring efficiency, scalability, and accuracy in analyzing 8,453 websites** 
+- **Overcame the challenge of not finding a freely available tool capable of handling large-scale GDPR compliance checks by developing our own fully automated solution, ensuring efficiency, scalability, and accuracy in analyzing 8,453 websites**
+
+
+---
+The source code is publicly available on GitHub under the **([MIT License](https://github.com/yousefjarbou/GDPR-Custom-Compliance-Checker/blob/main/LICENSE))**, ensuring open-source access and reuse.
+
